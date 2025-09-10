@@ -7,7 +7,7 @@ It is designed to guide researchers through preprocessing, assembly, and downstr
 ## 🌾 Dataset
 The analyses are based on **rice (Oryza spp.) sequencing data**, focusing on:
 - Comparative genomic analysis between rice varieties/strains  
-- De novo transcriptome/genome assembly for rice data  
+- De novo genome assembly for rice data  
 
 *(Note: Raw sequencing data is not included here. Please use your own or publicly available rice datasets.)*
 
